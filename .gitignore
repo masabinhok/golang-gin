@@ -1,0 +1,12 @@
+*.exe
+<<<<<<< HEAD
+*.log
+=======
+<<<<<<< HEAD
+*.log
+=======
+*.log
+.air.toml
+.env
+>>>>>>> 50f945f (initial commit: Golang Gin & MongoDB Atlas)
+>>>>>>> dbe0ee2 (initial commit: Golang Gin & MongoDB Atlas)
